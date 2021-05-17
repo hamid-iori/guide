@@ -23,8 +23,8 @@
 
       "ads_network": "admob",
 
-      "update": false,
-      "update_link": "com.womboai.wombo"
+      "update": true,
+      "update_link": "ai.tips.pro.wombo"
     },
     "Categories": [
         {
